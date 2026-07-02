@@ -18,16 +18,11 @@ Messages are informational and related to your relationship with our insurance a
 
 2. Opt-In Consent
 
-By providing your mobile phone number and opting in, you: [1]
+By providing your mobile number and opting in to SMS from AF INSURANCE AGENT LLC, you agree to receive customer care messages.
 
-- Authorize us to send SMS messages to the number provided
-- Confirm you are the account holder or have permission from the account holder
-- Understand that consent is not a condition of purchasing insurance products or services
-- By opting in to receive SMS messages from AF INSURANCE AGENT LLC, you agree to receive customer care messages.
-
-Message frequency: Message frequency may vary. On average, 1-2 messages per month.
+Message frequency may vary. On average, 1-2 messages per month.
+Message and data rates may apply.
 Privacy Policy: https://github.com/gotoconnecttestuser-arch/AFINPP
-If you have questions about these SMS terms, please contact AF INSURANCE AGENT LLC.
 
 3. No Data Sharing
 
